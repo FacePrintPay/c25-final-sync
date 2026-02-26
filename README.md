@@ -12,6 +12,6 @@ chmod +x final_sync.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/final_sync.sh
+/data/data/com.termux/files/home/final_sync.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
